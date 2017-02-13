@@ -1,0 +1,65 @@
+{
+  "name": "konishileecalendar",
+  "version": "1.0.7",
+  "license": "MIT",
+  "main": "./k-calendar.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonishiLee/calendar.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^0.0.10",
+    "gulp-gh-pages": "^0.5.2",
+    "gulp-livereload": "^2.1.1",
+    "gulp-minify-css": "^0.3.8",
+    "gulp-newer": "^0.3.0",
+    "gulp-sass": "^0.7.3",
+    "gulp-uglify": "^1.0.1"
+  },
+  "description": "_[Baremetrics](https://baremetrics.com) provides one-click analytics & insights for Stripe. **[Get started today!](https://baremetrics.com)**_",
+  "bugs": {
+    "url": "https://github.com/KonishiLee/calendar/issues"
+  },
+  "homepage": "https://github.com/KonishiLee/calendar",
+  "scripts": {
+    "test": "'konishileecalendar'"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": {
+    "name": "KonishiLee"
+  },
+  "gitHead": "6bc90ab611e77a906a32b73408f65df0a3b926ea",
+  "_id": "konishileecalendar@1.0.7",
+  "_shasum": "1ba3964828bc3ce16b5f1bfa367247d84a070ea5",
+  "_from": "konishileecalendar@1.0.7",
+  "_npmVersion": "2.14.12",
+  "_nodeVersion": "4.3.1",
+  "_npmUser": {
+    "name": "konishilee",
+    "email": "519807609@qq.com"
+  },
+  "dist": {
+    "shasum": "1ba3964828bc3ce16b5f1bfa367247d84a070ea5",
+    "size": 108327,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/konishileecalendar/download/konishileecalendar-1.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "konishilee",
+      "email": "519807609@qq.com"
+    }
+  ],
+  "directories": {},
+  "publish_time": 1481798526303,
+  "_cnpm_publish_time": 1481798526303,
+  "_resolved": "https://registry.npm.taobao.org/konishileecalendar/download/konishileecalendar-1.0.7.tgz",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/konishileecalendar-1.0.7.tgz_1481798525721_0.2390374164097011"
+  },
+  "readme": "ERROR: No README data found!"
+}
